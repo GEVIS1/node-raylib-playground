@@ -1,0 +1,25 @@
+{
+  "name": "raylib-playground",
+  "version": "1.0.0",
+  "description": "First raylib project with node-raylib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEVIS1/node-raylib-playground.git"
+  },
+  "keywords": [
+    "node-raylib",
+    "gamedev",
+    "game",
+    "raylib"
+  ],
+  "author": "Steffen Geving",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GEVIS1/node-raylib-playground/issues"
+  },
+  "homepage": "https://github.com/GEVIS1/node-raylib-playground#readme"
+}
